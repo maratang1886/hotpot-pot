@@ -1,0 +1,15 @@
+.header {
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+
+  //background-color: $header-background-color;
+  background-color: indianred;
+  opacity: 0.8;
+  //font-family: LeagueGothic, sans-serif;
+  font-weight: 500;
+  font-size: 2.5vh;
+  letter-spacing: 0.8px;
+  min-height: 13vh;
+  transition: 0.3s all ease;
+}
